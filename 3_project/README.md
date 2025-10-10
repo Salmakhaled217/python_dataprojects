@@ -127,7 +127,7 @@ plt.xlabel("median salary ")
 plt.ylabel(" ")
 plt.show()
 ```
-![boxplot]()
+![boxplot](https://github.com/Salmakhaled217/python_dataprojects/blob/main/3_project/images/boxplot.png?raw=true)
 
 ## insghts
 
@@ -172,7 +172,7 @@ sns.set_theme(style='ticks')
 plt.tight_layout()
 plt.show()
 ```
-![deman](images\most%20demans.png)
+![deman](https://github.com/Salmakhaled217/python_dataprojects/blob/main/3_project/images/most%20demans.png?raw=true)
 ## insights
  1. Rare Skills = Higher Pay
 Skills like dplyr, bitbucket, and solidity offer the highest median salaries—often above $150K. These tools aren't used by every data analyst, but companies pay more for people who master them because they’re harder to find.
@@ -212,7 +212,7 @@ adjust_text(texts, arrowprops=dict(arrowstyle='->', color='gray'))
 plt.show()
 ```
 ## result 
-![scatter1](images\scatter.png)
+![scatter1](https://github.com/Salmakhaled217/python_dataprojects/blob/main/3_project/images/scatter.png?raw=true)
 
 ## insights
 1. Python Offers the Best Pay
@@ -238,7 +238,7 @@ sns.scatterplot(
 )
 ```
 ## result
-![scatter2](images\scatter2.png)
+![scatter2](https://github.com/Salmakhaled217/python_dataprojects/blob/main/3_project/images/scatter2.png?raw=true)
 
 # What I Learned
 Throughout this project, I deepened my understanding of the data analyst job market and enhanced my technical skills in Python, especially in data manipulation and visualization. Here are a few specific things I learned:
