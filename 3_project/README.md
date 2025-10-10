@@ -105,7 +105,7 @@ for i in range(5):
 plt.show() 
 ```
 ## Result
-![trend_skills_image]()
+![trend_skills_image](https://github.com/Salmakhaled217/python_dataprojects/blob/main/3_project/images/skilltrend.png?raw=true)
 
 ## insights
 1. SQL remains the most consistently demanded skill throughout the year, although it shows a gradual decrease in demand.
@@ -127,7 +127,7 @@ plt.xlabel("median salary ")
 plt.ylabel(" ")
 plt.show()
 ```
-![boxplot](images\boxplot.png)
+![boxplot]()
 
 ## insghts
 
