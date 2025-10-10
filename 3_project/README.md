@@ -72,7 +72,7 @@ plt.show()
 ```
 ### results
 
-![Bar graph visualizing the salary for the top 3 data roles and their top 5 skills associated with each.](https://github.com/Salmakhaled217/python_dataprojects/blob/main/3_project/images/skilltrend.png?raw=true)
+![Bar graph visualizing the salary for the top 3 data roles and their top 5 skills associated with each.](https://github.com/Salmakhaled217/python_dataprojects/blob/main/3_project/images/likelihood%20image.png?raw=true)
 
 
 ### Insights:
@@ -105,7 +105,7 @@ for i in range(5):
 plt.show() 
 ```
 ## Result
-![trend_skills_image](images\skilltrend.png)
+![trend_skills_image]()
 
 ## insights
 1. SQL remains the most consistently demanded skill throughout the year, although it shows a gradual decrease in demand.
